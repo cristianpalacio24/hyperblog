@@ -19,13 +19,22 @@ body
 
 }
 
+#cabecera #logo
+{
+  width: 20px;
+  vertical-align: middle;
+}
+
 #container
 {
   width: 400px;
   padding: 10px;
   text-align: center;
+<<<<<<< HEAD
   border: 1px solid #33a;  
   border-radius: 20px;
+=======
+>>>>>>> header
   display: flex;
   justify-content: center;
   align-items: center;
